@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="sinclair.css"?>
+
+<sinclair machine="zx81">
+
+<b>10 rem <hex>010000c9</hex></b>
+<b>20 print "<token>print</token><hex>08</hex>";usr 16514;"<hex>08</hex>"</b>
+<b>30 stop</b>
+
+<hex addr="16515">d204</hex>
+
+</sinclair>
